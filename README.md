@@ -23,7 +23,7 @@ For this coursework, the length of the mathematical equation is fixed at 7 chara
 **NFR1:** 	The GUI version and CLI version should be two separate programs ie there should be two files each with a main method in them and which file is run determines which version activated.  
 **NFR2:** 	The GUI version must be constructed according to the principles of MVC, as restated below. Because of this requirement, code that belongs in the View but is placed in the Model will usually not be counted towards the marks for the View. Similar rules will apply for other misplaced code.  
 **NFR3:** 	The CLI version will use the Model part of the GUI version directly without using the View or Controller; nor should it define a new view or controller. 
-**NFR4:** 	The code must be documented with asserts, unit testing, class diagram, comments as described below.  
+**NFR4:** 	The code must be documented with asserts, unit testing, class diagram, comments as described below. 
 **NFR5:** 	The code must be of good quality as described in the marking scheme below. 
 **NFR6:** 	The flags mentioned in FR3 should be in the Model. It is not necessary for them to be changeable at run time. 
 **NFR7:** 	The model should also have a constant indicating the number of allowable guesses.
